@@ -5,3 +5,5 @@ This is a 2nd line.
 This line is only for the TestBranch.
 
 OK, I merged the line above, then added this line.  
+
+One more line.
